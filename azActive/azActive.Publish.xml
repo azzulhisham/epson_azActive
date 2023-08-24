@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Zulhisham\Desktop\epson\azActive\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/azActive.xml" publishTime="02/20/2020 12:44:01" />
+    <file relUrl="bin/azActive.dll" publishTime="02/20/2020 12:44:01" />
+    <file relUrl="bin/azActive.pdb" publishTime="02/20/2020 12:44:01" />
+    <file relUrl="Web.config" publishTime="02/06/2020 18:16:21" />
+    <file relUrl="Default.aspx" publishTime="10/02/2010 08:41:55" />
+    <file relUrl="UpLoadSpecFile.aspx" publishTime="07/23/2010 03:35:06" />
+  </publishProfile>
+</publishData>

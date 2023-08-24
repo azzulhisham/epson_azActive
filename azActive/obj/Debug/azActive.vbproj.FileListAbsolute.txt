@@ -1,0 +1,9 @@
+D:\AI\az_Logics.net\azActive\azActive\bin\azActive.dll
+D:\AI\az_Logics.net\azActive\azActive\bin\azActive.pdb
+D:\AI\az_Logics.net\azActive\azActive\bin\azActive.xml
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\ResolveAssemblyReference.cache
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\azActive.Resources.resources
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\azActive.vbproj.GenerateResource.Cache
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\azActive.dll
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\azActive.xml
+D:\AI\az_Logics.net\azActive\azActive\obj\Debug\azActive.pdb
